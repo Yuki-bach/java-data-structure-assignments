@@ -1,9 +1,9 @@
 ## CIS 2168 - Data Structures
 
 ## Contents
-##### • Generics
-##### • Inheritance
-##### • Array Lists
+#### • Generics
+#### • Inheritance
+#### • Array Lists
 #### • Time Complexity
 #### • Linked Lists
 #### • Stacks
